@@ -54,4 +54,4 @@ func main() {
 }
 ```
 
-More [examples](https://github.com/haifeng/gop/examples).
+More [examples](https://github.com/haifeng/gop/tree/master/examples).
